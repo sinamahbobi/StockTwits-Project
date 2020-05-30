@@ -5,3 +5,7 @@ StockTwits_ExploratoryData file: Provides some introductory data analysis to the
 This includes: 
    - Looking at moving averages of bearish/bullish tags
    - message volumes over differents days
+
+PriceData_Exploratory file:
+   This Includes:
+    - Initial analysis on forward T-day returns of closing price data for a variety of stocks
