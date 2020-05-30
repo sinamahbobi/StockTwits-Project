@@ -7,5 +7,4 @@ This includes:
    - message volumes over differents days
 
 PriceData_Exploratory file:
-This includes:
     - Initial analysis on forward T-day returns of closing price data for a variety of stocks
